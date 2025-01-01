@@ -1,1 +1,1 @@
-# ghost-job-filter-app
+# ghost-job-filter-frontend
